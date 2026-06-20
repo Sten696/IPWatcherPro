@@ -427,3 +427,10 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# IPWatcherPro runtime files
+activity.log
+config.json
+
+# Release packages
+IPWatcherPro_v*.zip
